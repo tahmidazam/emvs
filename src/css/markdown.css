@@ -1,0 +1,24 @@
+/* CSS for the `Md` component. */
+
+/* Remove the `margin-top` from the first rendered markdown component. */
+.md > :first-child {
+  margin-top: 0;
+}
+
+.md blockquote > :first-child {
+  margin-top: 0;
+}
+
+/* Remove the `margin-bottom` from the last rendered markdown component. */
+.md > :last-child {
+  margin-bottom: 0;
+}
+
+.md blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* Ensure that code tags inside anchor tags inherit its colour. */
+.md a code {
+  color: inherit;
+}
