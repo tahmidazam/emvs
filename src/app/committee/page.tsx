@@ -1,4 +1,3 @@
-import AnalyticsClient from "@/analytics/analytics-client";
 import PageHeaderSection from "@/components/page-header-section";
 import { Role } from "@/interfaces/role";
 import getRoles from "@/parsing/get-members";
@@ -14,8 +13,6 @@ import {
 import Link from "next/link";
 
 export default async function CommitteePage() {
-  const analyticsClient = AnalyticsClient();
-
   const members: Role[] = await getRoles();
 
   return (

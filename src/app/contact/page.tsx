@@ -1,4 +1,3 @@
-import AnalyticsClient from "@/analytics/analytics-client";
 import PageHeaderSection from "@/components/page-header-section";
 import { ExternalLinkIcon } from "@radix-ui/react-icons";
 import { Container, Flex, Section, Table, Text } from "@radix-ui/themes";
@@ -13,8 +12,6 @@ const contactLabelledHrefs = [
 ];
 
 export default function ContactPage() {
-  const analyticsClient = AnalyticsClient();
-
   return (
     <>
       <PageHeaderSection title={"Contact"} subtitle={"TBC"} />
