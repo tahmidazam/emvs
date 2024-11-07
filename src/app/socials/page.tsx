@@ -3,8 +3,6 @@ import EventSummary from "../../components/event-summary";
 import AnalyticsClient from "@/analytics/analytics-client";
 
 export default async function SocialsPage() {
-  const analyticsClient = AnalyticsClient();
-
   return (
     <>
       <PageHeaderSection title={"Socials"} subtitle={"TBC"} />

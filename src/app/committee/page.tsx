@@ -14,8 +14,6 @@ import {
 import Link from "next/link";
 
 export default async function CommitteePage() {
-  const analyticsClient = AnalyticsClient();
-
   const members: Role[] = await getRoles();
 
   return (

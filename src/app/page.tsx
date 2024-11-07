@@ -4,8 +4,6 @@ import PageHeaderSection from "@/components/page-header-section";
 import { Container, Section } from "@radix-ui/themes";
 
 export default function Home() {
-  const analyticsClient = AnalyticsClient();
-
   return (
     <>
       <PageHeaderSection title={"TBC"} subtitle={"TBC"} />

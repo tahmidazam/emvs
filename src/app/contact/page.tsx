@@ -13,8 +13,6 @@ const contactLabelledHrefs = [
 ];
 
 export default function ContactPage() {
-  const analyticsClient = AnalyticsClient();
-
   return (
     <>
       <PageHeaderSection title={"Contact"} subtitle={"TBC"} />
