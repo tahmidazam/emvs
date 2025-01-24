@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Co-Presidents",
+    "members": [
+      {
+        "name": "Luke John",
+        "email": "lj411@cam.ac.uk"
+      },
+      {
+        "name": "Nina Weston",
+        "email": "ncrw2@cam.ac.uk"
+      }
+    ],
+    "description": "Nina and Luke are both third year medical students intercalating in English and Pathology respectively. They oversee the society’s events and finances and work closely with the other members of the EMVS committee to organise a range of opportunities, events and resources for medical and veterinary students of Emmanuel College and the wider University. They have big ambitions for the society this year, aiming to culture innovation in all departments – including new socials, sources of funding and the ‘Medicine and Beyond’ lecture series which aims to give a platform to distinguished speakers from a range of medical and veterinary backgrounds to share details of their careers, ventures and research to students across the university."
+  },
+  {
+    "name": "Social Secretaries",
+    "members": [
+      {
+        "name": "Sergio Grannum",
+        "email": "sg2117@cam.ac.uk"
+      },
+      {
+        "name": "Alisha Sri-Ram",
+        "email": "as3503@cam.ac.uk"
+      },
+      {
+        "name": "Barney Steventon-Barnes",
+        "email": "bs769@cam.ac.uk"
+      }
+    ],
+    "description": "As your social social secs this year, we are responsible for providing the wildest entertainment the Emma MedVet community has ever seen. We are all second year medics, struggling through MODA and BOD, who need the MedVet socials to get us through. We will be running pub crawls, social swaps with other colleges and formal swaps this year to help integrate the different years at Emma as well as introduce the freshers to different college medics. If you have any fun social ideas that you want to get through, please give us a message and we’ll make it happen!"
+  },
+  {
+    "name": "Vet Officers",
+    "members": [
+      {
+        "name": "Catherine Hollamby",
+        "email": "ch2018@cam.ac.uk"
+      },
+      {
+        "name": "Holly Powell",
+        "email": "hp514@cam.ac.uk"
+      }
+    ],
+    "description": "Holly and Catherine are both second years hoping to represent the voices of veterinary students at Emmanuel College. Their goals are to ensure EMVS is an inclusive, friendly community for both medics and vets. They will be the point of contact for vet students across colleges, and will create revision resources for the vet-specific modules that can be used year upon year. They aim to expand the society’s lecture series to include more representation of veterinarians, as well as encouraging lectures that span both the medical and veterinary profession, with a focus on One Health."
+  }, {
+    "name": "Clinical Liaison Representative",
+    "members": [
+      {
+        "name": "Ishaan Patel",
+        "email": "ikp22@cam.ac.uk"
+      }
+    ],
+    "description": "Ishaan is a fourth year medical student serving as the Clinical Liaison Representative for EMVS this year. Having recently completed the pre-clinical years of the medical degree, he is well placed to bridge the gap between clinical practice and student learning. With a specific interest in surgery, Ishaan aims to give the pre-clinical students valuable insights to the clinical environment. He is also dedicated to keeping the clinical students involved in the socials, opportunities and events hosted by the EMVS throughout the year."
+  }
+]
